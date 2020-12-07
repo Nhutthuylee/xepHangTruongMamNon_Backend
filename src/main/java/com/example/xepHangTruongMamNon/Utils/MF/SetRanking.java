@@ -1,12 +1,5 @@
 package com.example.xepHangTruongMamNon.Utils.MF;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.StringTokenizer;
-
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -184,7 +177,6 @@ public class SetRanking {
 			rankking.put(key, resutl);
 		}
 		Map<Integer, Float> hm1 = sortByValue((HashMap<Integer, Float>) rankking);
-		
 
 		return hm1;
 	}

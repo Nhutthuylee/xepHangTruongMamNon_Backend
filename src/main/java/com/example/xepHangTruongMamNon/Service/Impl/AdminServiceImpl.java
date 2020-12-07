@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.HashMap;
 import com.example.xepHangTruongMamNon.Entity.Comment;
-import com.example.xepHangTruongMamNon.Entity.Image;
+// import com.example.xepHangTruongMamNon.Entity.Image;
 import com.example.xepHangTruongMamNon.Entity.NurserySchool;
 import com.example.xepHangTruongMamNon.Entity.Ranking;
 import com.example.xepHangTruongMamNon.Entity.Review;
